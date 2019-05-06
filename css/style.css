@@ -1,0 +1,201 @@
+      *{
+ 	margin: 0;
+ 	padding: 0;
+ 	box-sizing: border-box;
+ }
+ body{
+
+ }
+.container{
+
+width: 1200px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+/*background-color: limegreen;*/
+
+margin-top: 50px;
+
+overflow: hidden;
+}
+/* Grid project css */
+.column-3{
+	
+width: 33.33%;
+	
+height: 200px;
+	
+float: left;
+	
+padding: 5px;
+}
+.column-full{
+    width: 100%;
+    height: 200px;
+    padding: 5px;
+    float: left;
+}
+.column-2{
+
+width: 50%;
+
+height: 200px;
+
+float: left;
+
+padding: 5px;
+}
+.column-7{
+	
+width: 70%;
+	
+float: left;
+	
+padding: 5px;
+	
+height: 200px;
+}
+.column-15{
+	
+width: 15%;
+	
+height: 200px;
+	
+padding: 5px;
+	
+float: left;
+}
+.bg-green {
+    height: 100%;
+    background-color: #508e8e;
+}
+.bg-orange{
+    height: 100%;
+    background-color: #825c2f;
+}
+.bg-yellow{
+	
+height: 100%;
+	
+background-color: #7d2c11;
+}
+.bg-gray{
+	
+height: 100%;
+	
+background-color: #387fc5;
+}
+.bg-blue{
+	
+height: 100%;
+	
+background-color: #2e2e56;
+}
+/* index css */
+.Project-link{
+
+text-align: center;
+
+/* display: inline; */
+}
+.Project-link li{
+    list-style: none;
+    display: inline;
+}
+.Project-link li a{
+    background: blue;
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+    box-shadow: 0 0 10px #827a86;
+    border-bottom: 5px solid darkseagreen;
+    transition: all 0.4s ease;
+    font-size: 30px;
+    border-radius: 40px;
+}
+.Project-link li a:hover{
+	
+background: brown;
+	
+border-bottom: 5px solid darkseagreen;
+}
+
+/* Portfolio Css */
+.service{
+	
+width: 33.33%;
+	
+float: left;
+	
+padding: 10px;
+}
+.service-content{
+    background: #0e0808;
+    color: #d8c8c8;
+    padding: 32px 17px;
+    box-shadow: 5px 5px 10px #484646;
+}
+.service-content p{
+    font-size: 15px;
+}
+.service-content h2{
+    color: #77ff34;
+    margin-bottom: 13px;
+}
+
+.portfolio-section{
+
+background: #c3c3c387;
+
+text-align: center;
+
+padding: 15px;
+
+margin-top: 50px;
+}
+.portfolio-section h2{
+
+font-size: 30px;
+
+text-transform: uppercase;
+
+color: #25290ec4;
+}
+.portfolio{
+
+width: 33.33%;
+
+float: left;
+
+padding: 10px;
+}
+.portfolio img{
+	
+max-width: 100%;
+	
+display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
